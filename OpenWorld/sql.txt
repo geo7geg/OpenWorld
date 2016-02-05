@@ -1,0 +1,1 @@
+server=localhost;user id=root;Password=;database=mapgame1;persist security info=False

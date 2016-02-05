@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsFormsApplication2/Form1.cs">
+    <Files>
+      <File FileName="WindowsFormsApplication2/Form1.cs" Line="21" Column="21" />
+      <File FileName="WindowsFormsApplication2/Form1.resx" Line="1" Column="1" />
+      <File FileName="WindowsFormsApplication2/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="WindowsFormsApplication2/Form2.cs" Line="1" Column="1" />
+      <File FileName="WindowsFormsApplication2/Form3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
